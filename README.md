@@ -40,3 +40,26 @@ Clear requirements allow project managers to accurately estimate the timeline, c
 
 By aligning development with clearly defined and validated requirements, the final product is more likely to meet user needs and quality expectations, resulting in higher customer satisfaction.
 
+## 🛠️ Key Activities in Requirement Analysis
+
+The Requirement Analysis process involves several structured activities that help gather, refine, and validate the needs of stakeholders. Below are the five key activities:
+
+- **📥 Requirement Gathering**
+  - Involves collecting initial information from stakeholders through interviews, surveys, observations, and document analysis.
+  - Helps understand the business goals, user needs, and current challenges.
+
+- **🧠 Requirement Elicitation**
+  - Focuses on exploring and refining requirements using techniques like brainstorming, focus groups, workshops, and prototyping.
+  - Ensures deeper understanding and clarification of user needs.
+
+- **📝 Requirement Documentation**
+  - Captures requirements in a clear, organized format such as requirement specification documents, user stories, and use cases.
+  - Serves as a formal reference for the design, development, and testing phases.
+
+- **📊 Requirement Analysis and Modeling**
+  - Involves analyzing requirements for feasibility, consistency, and completeness.
+  - Uses visual tools like data flow diagrams, entity-relationship diagrams, and process models to represent the system.
+
+- **✅ Requirement Validation**
+  - Ensures that documented requirements accurately reflect stakeholder needs.
+  - Includes stakeholder reviews, defining acceptance criteria, and establishing traceability to ensure requirements are fulfilled during development.
