@@ -63,3 +63,32 @@ The Requirement Analysis process involves several structured activities that hel
 - **✅ Requirement Validation**
   - Ensures that documented requirements accurately reflect stakeholder needs.
   - Includes stakeholder reviews, defining acceptance criteria, and establishing traceability to ensure requirements are fulfilled during development.
+ 
+## 📂 Types of Requirements
+
+Requirements are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements**. Both are essential for building a complete, efficient, and user-friendly system.
+
+### ⚙️ Functional Requirements
+
+**Definition:**  
+Functional requirements define what the system should do. They describe the features, capabilities, and operations the system must support to meet user needs.
+
+**Examples for the Booking Management System:**
+- **User Registration:** Users must be able to create an account with personal details and secure login credentials.
+- **Property Search:** Users should be able to search for properties by filters like location, price, and availability.
+- **Booking System:** Registered users can book a property, view booking history, and modify or cancel bookings.
+- **Admin Panel:** Admins can add, edit, or remove property listings and manage bookings.
+- **Notifications:** Users receive confirmation emails after successful bookings.
+
+### 🛡️ Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements specify how the system should perform rather than what it should do. These include performance, security, usability, scalability, and reliability attributes.
+
+**Examples for the Booking Management System:**
+- **Performance:** Web pages must load within 2 seconds, even with 1000 concurrent users.
+- **Security:** Data must be encrypted during transmission. The system must protect against SQL injection and XSS attacks.
+- **Scalability:** The application should support growth in users and bookings without performance degradation.
+- **Usability:** The interface should be intuitive and accessible on desktop and mobile devices.
+- **Reliability:** The system should maintain 99.9% uptime and have automated backups for disaster recovery.
+
