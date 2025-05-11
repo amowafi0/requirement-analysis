@@ -129,3 +129,27 @@ These diagrams help in understanding:
 - Manage Bookings (Admin)
 
 
+## ✅ Acceptance Criteria
+
+**What is Acceptance Criteria?**  
+Acceptance Criteria are predefined conditions or statements that a software product or feature must meet to be considered complete and acceptable by stakeholders. They are written from the end-user's perspective and ensure that the delivered functionality meets expectations and business requirements.
+
+### 🎯 Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarifies Expectations:** Clearly defines what needs to be delivered and under what conditions it is accepted.
+- **Guides Development & Testing:** Helps developers know what to build and testers know what to validate.
+- **Reduces Miscommunication:** Ensures all stakeholders are aligned on what constitutes "done."
+- **Improves Quality:** Promotes testable, consistent, and verifiable outcomes that meet user needs.
+
+### 📌 Example: Acceptance Criteria for the “Checkout” Feature
+
+**Feature:** Checkout Process for Booking a Property
+
+**Acceptance Criteria:**
+- ✅ Users must be logged in to proceed to checkout.
+- ✅ The system must display a summary of selected booking dates, property details, and total cost before confirmation.
+- ✅ Users must be able to enter or select saved payment details.
+- ✅ Upon successful payment, a booking confirmation page must be shown within 2 seconds.
+- ✅ A confirmation email must be sent to the user immediately after checkout.
+
+Each criterion is specific, measurable, and tied to a user goal, ensuring that the functionality is thoroughly understood, implemented, and validated.
